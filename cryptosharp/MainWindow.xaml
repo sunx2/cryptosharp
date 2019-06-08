@@ -1,0 +1,23 @@
+﻿<Window x:Class="cryptosharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cryptosharp"
+        mc:Ignorable="d"
+        Title="Crypto Sharp" Height="350" Width="525">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="143.425" Margin="10,10,0,0" VerticalAlignment="Top" Width="215.748">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="pat me.gif"/>
+            </Image.OpacityMask>
+        </Image>
+        <Label x:Name="Label1" Content="Type text bellow to encrypt or decrypt" HorizontalAlignment="Left" Height="66.232" Margin="245.046,10,0,0" VerticalAlignment="Top" Width="263.554"/>
+        <CheckBox Checked="sha_check" Content="SHA256" HorizontalAlignment="Left" Height="25.439" Margin="35.396,158.425,0,0" VerticalAlignment="Top" Width="112.281"/>
+        <CheckBox Checked="unicode_check" Content="Unicode" HorizontalAlignment="Left" Height="25.439" Margin="183.642,158.425,0,0" VerticalAlignment="Top" Width="109.65"/>
+        <CheckBox Checked="aes_check" IsChecked="True" Content="AES" HorizontalAlignment="Left" Height="25.439" Margin="344.169,158.425,0,0" VerticalAlignment="Top" Width="143.859"/>
+        <Button Click="Encrypt_click" Content="Encrypt" HorizontalAlignment="Left" Height="67.543" Margin="35.396,230.618,0,0" VerticalAlignment="Top" Width="190.352" ClickMode="Press" AutomationProperties.Name="encrypt" />
+        <Button Click="Decrypt_click"  Content="Decrypt" HorizontalAlignment="Left" Height="67.543" Margin="279.256,230.618,0,0" VerticalAlignment="Top" Width="185.088"/>
+        <TextBox x:Name="Textbox1" HorizontalAlignment="Left" Height="47.368" Margin="245.046,76.232,0,0" TextWrapping="Wrap" Text="Hello World!" VerticalAlignment="Top" Width="263.554" RenderTransformOrigin="0.433,0.407"/>
+    </Grid>
+</Window>

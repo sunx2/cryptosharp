@@ -1,0 +1,15 @@
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\bin\Debug\cryptosharp.exe.config
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\bin\Debug\cryptosharp.exe
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\bin\Debug\cryptosharp.pdb
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp.csprojAssemblyReference.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\MainWindow.g.cs
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\App.g.cs
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp_MarkupCompile.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp_MarkupCompile.lref
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\MainWindow.baml
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp.g.resources
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp.Properties.Resources.resources
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp.csproj.GenerateResource.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp.csproj.CoreCompileInputs.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp.exe
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Debug\cryptosharp.pdb
