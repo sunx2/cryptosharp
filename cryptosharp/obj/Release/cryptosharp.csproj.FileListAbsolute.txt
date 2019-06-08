@@ -1,0 +1,15 @@
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\bin\Release\cryptosharp.exe.config
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\bin\Release\cryptosharp.exe
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\bin\Release\cryptosharp.pdb
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp.csprojAssemblyReference.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\MainWindow.g.cs
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\App.g.cs
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp_MarkupCompile.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp_MarkupCompile.lref
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\MainWindow.baml
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp.g.resources
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp.Properties.Resources.resources
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp.csproj.GenerateResource.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp.csproj.CoreCompileInputs.cache
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp.exe
+C:\Users\Khanjan Kumar Nath\RiderProjects\cryptosharp\cryptosharp\obj\Release\cryptosharp.pdb
