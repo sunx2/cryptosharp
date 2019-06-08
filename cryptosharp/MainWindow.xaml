@@ -7,11 +7,6 @@
         mc:Ignorable="d"
         Title="Crypto Sharp" Height="350" Width="525">
     <Grid>
-        <Image HorizontalAlignment="Left" Height="143.425" Margin="10,10,0,0" VerticalAlignment="Top" Width="215.748">
-            <Image.OpacityMask>
-                <ImageBrush ImageSource="pat me.gif"/>
-            </Image.OpacityMask>
-        </Image>
         <Label x:Name="Label1" Content="Type text bellow to encrypt or decrypt" HorizontalAlignment="Left" Height="66.232" Margin="245.046,10,0,0" VerticalAlignment="Top" Width="263.554"/>
         <CheckBox Checked="sha_check" Content="SHA256" HorizontalAlignment="Left" Height="25.439" Margin="35.396,158.425,0,0" VerticalAlignment="Top" Width="112.281"/>
         <CheckBox Checked="unicode_check" Content="Unicode" HorizontalAlignment="Left" Height="25.439" Margin="183.642,158.425,0,0" VerticalAlignment="Top" Width="109.65"/>
